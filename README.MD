@@ -55,7 +55,7 @@ This project demonstrates a decentralized application (dApp) for an AI model mar
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/nurlyybekovva/block2
+git clone https://github.com/kissamedinov/blockchain22
 cd smart-contract
 ```
 
@@ -106,5 +106,5 @@ This project is licensed under the **MIT License**.
 ---
 
 ## Link to Repository
-[GitHub Repository](https://github.com/nurlyybekovva/block2)
+[GitHub Repository](https://github.com/kissamedinov/blockchain22)
 
